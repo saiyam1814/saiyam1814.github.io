@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Saiyam Pathak 
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,16 +12,16 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Saiyam Pathak
+  tagline: Docker Community Leader 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: SaiyamPathak
+    github: saiyam1814
+    linkedIn: in/saiyam-pathak-97685a64/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
